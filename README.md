@@ -13,6 +13,6 @@ Welcome to my page where all my exporation on python exists. 😌
 **Inclass Notes：**
 -  github repo
 -  [Markdown documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
-  
+- resources I use: [bilibili](https://www.bilibili.com/video/BV1rAH5e9EPh/?spm_id_from=333.337.search-card.all.click)
 
 ### Week 2
