@@ -21,7 +21,7 @@ Welcome to my page where all my exporation on python exists. 😌
 Py5 Art work recreation
 - selected work:[Frank Stella "Star of Persia"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ohiomagazine.com%2Farts%2Farticle%2Flines-edges-frank-stella-on-paper-at-pizzuti-collection&psig=AOvVaw3rXXrbIomeAXxSDAQiXP8W&ust=1739233410930000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCJDp58Hrt4sDFQAAAAAdAAAAABAE)
 - [My Code](py5/py5_Feb9.py)
-  <img width="1070" alt="Screenshot 2025-02-09 at 7 30 10 PM" src="https://github.com/user-attachments/assets/de814261-31bb-4e56-9e67-f58de9df29f6" />
+<img width="1070" alt="Screenshot 2025-02-09 at 7 30 10 PM" src="https://github.com/user-attachments/assets/de814261-31bb-4e56-9e67-f58de9df29f6" />
 - Beside just replicating the visual, I also add mouse-pressed() for interaction, while the mouse is pressed, there will be one more triangle added to the canvas
 
 ### Week 4 Scroll Art
@@ -31,7 +31,7 @@ Py5 Art work recreation
 <img width="1070" alt="iteration 1" src="assets/SA1.gif" />
 - Iteration 2:
 <img width="1070" alt="iteration 1" src="assets/SA2.gif" />
--Final Iteration:
+- Final Iteration:
 <img width="1070" alt="iteration 1" src="assets/SAFinal.gif" />
 - [My Code](scroll_art/scrollArt.py)
   
