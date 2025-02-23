@@ -11,7 +11,7 @@ Welcome to my page where all my exporation on python exists. 😌
 
 
 ### Week 1
-**Inclass Notes：**
+**Inclass Notes**
 -  github repo
 -  [Markdown documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
 - resources I use: [bilibili](https://www.bilibili.com/video/BV1rAH5e9EPh/?spm_id_from=333.337.search-card.all.click)
@@ -33,5 +33,5 @@ Py5 Art work recreation
 <img width="1070" alt="iteration 1" src="assets/SA2.gif" />
 - Final Iteration:
 <img width="1070" alt="iteration 1" src="assets/SAFinal.gif" />
-- [My Code](scroll_art/scrollArt.py)
+- [Final Iteration Code](scroll_art/scrollArt.py)
   
