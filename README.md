@@ -28,9 +28,9 @@ Py5 Art work recreation
 **Assignment**
 - Reference Code: [In and Out By Al Sweigart](https://scrollart.org/in-and-out/)
 - Iterations:
-  ![Iteration 1:](name-of-giphy.gif)
-  ![Iteration 2:](name-of-giphy.gif)
+  ![Iteration 1](assets/SA1.gif)
+  ![Iteration 2](assets/SA2.gif)
 -Final
- ![Final:](name-of-giphy.gif)
-- [My Code(FINAL ITERATION)]()
+ ![Final:](assets/SAFinal.gif)
+- [My Code(scroll_art/scrollArt.py)]()
   
