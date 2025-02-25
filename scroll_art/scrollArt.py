@@ -43,9 +43,9 @@ try:
 
         # chekc if meet capacity
         if len(shooting_stars) < capacity and random.random() < NEW_STAR_PROB:
-            start_x = random.randint(0, WIDTH - 1)  # Start anywhere in width
-            length = random.randint(5, 15)  # Random length between 5 and 15
-            shooting_stars.append([start_x, length, 0])  # [x, length, progress]
+            start_x = random.randint(0, WIDTH - 1)  
+            length = random.randint(5, 15) 
+            shooting_stars.append([start_x, length, 0])  
 
         line = [' '] * WIDTH
 
