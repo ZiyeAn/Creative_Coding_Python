@@ -33,5 +33,5 @@ Py5 Art work recreation
 <img width="1070" alt="iteration 1" src="assets/SA2.gif" />
 - Final Iteration:
 <img width="1070" alt="iteration 1" src="assets/SAFinal.gif" />
-- [Final Iteration Code](scroll_art/scrollArt.py)
+- [Final Iteration Code](../scroll_art/scrollArt.py)
   
