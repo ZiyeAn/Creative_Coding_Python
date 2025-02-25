@@ -27,11 +27,12 @@ Py5 Art work recreation
 ### Week 4 Scroll Art
 **Assignment**
 - Reference Code: [In and Out By Al Sweigart](https://scrollart.org/in-and-out/)
+- [My Code](scroll_art/scrollArt.py)
 - Iteration 1:
 <img width="1070" alt="iteration 1" src="assets/SA1.gif" />
 - Iteration 2:
 <img width="1070" alt="iteration 1" src="assets/SA2.gif" />
 - Final Iteration:
 <img width="1070" alt="iteration 1" src="assets/SAFinal.gif" />
-- [Final Iteration Code](../scroll_art/scrollArt.py)
+[Code](https://github.com/ZiyeAn/Creative_Coding_Python/blob/main/scroll_art/scrollArt.py)
   
