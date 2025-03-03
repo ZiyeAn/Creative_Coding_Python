@@ -1,4 +1,4 @@
-# Ziye's Creative Coding: Python Repo, Spring 2025
+![image](https://github.com/user-attachments/assets/becd141a-6e7f-46d4-9dd3-7fa0fc0e2ce0)# Ziye's Creative Coding: Python Repo, Spring 2025
 Welcome to my page where all my exporation on python exists. 😌 
 
 <img src="assets/logo.png" alt="my Logo" width="300"/>
@@ -7,7 +7,7 @@ Welcome to my page where all my exporation on python exists. 😌
 - [Week 1](#week-1) 
 - [Week 2](#week-2)
 - [Week 4](#week-4)
-
+- [Week 5](#week-5)
 
 
 ### Week 1
@@ -34,4 +34,9 @@ Py5 Art work recreation
 <img width="1070" alt="iteration 1" src="assets/SA2.gif" />
 - Final Iteration:
 <img width="1070" alt="iteration 1" src="assets/SAFinal.gif" />
-  
+
+### Week 5 Turtle
+**Assignment**
+- Reference: [Frank Stella](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.caviar20.com%2Fproducts%2Ffrank-stella-hampton-roads-1971&psig=AOvVaw1Y8e9GMskkDJD7f2OQVk2g&ust=1741055109471000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD3te_t7IsDFQAAAAAdAAAAABAn)
+- [My Code](turtle/assignment.py)
+<img width="1070" alt="turtle" src="assets/" />
