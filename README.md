@@ -7,7 +7,7 @@ Welcome to my page where all my exporation on python exists. 😌
 - [Week 1](#week-1) 
 - [Week 2](#week-2)
 - [Week 4](#week-4)
-
+- [Week 5](#week-5)
 
 
 ### Week 1
@@ -34,4 +34,9 @@ Py5 Art work recreation
 <img width="1070" alt="iteration 1" src="assets/SA2.gif" />
 - Final Iteration:
 <img width="1070" alt="iteration 1" src="assets/SAFinal.gif" />
-  
+
+### Week 5 Turtle
+**Assignment**
+- Reference: [Frank Stella](https://www.caviar20.com/cdn/shop/products/Caviar20_Frank-Stella-HamptonRoads_1971_04_800x.jpg?v=1623678869)
+- [My Code](turtle/assignment.py)
+<img width="1070" alt="turtle" src="assets/turtle.gif" />
