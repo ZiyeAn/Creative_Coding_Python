@@ -2,7 +2,6 @@ import turtle
 import random
 
 def draw_square_pattern(t, x, y, size, step, depth):
-    """ Draws a stepped square pattern starting from (x, y). """
     t.penup()
     t.goto(x, y)
     t.pendown()
@@ -17,7 +16,7 @@ def draw_square_pattern(t, x, y, size, step, depth):
         t.forward(size - step * (i + 1))
         t.right(90)
 
-# Set up turtle
+
 screen = turtle.Screen()
 screen.bgcolor("white")
 t = turtle.Turtle()
