@@ -40,3 +40,10 @@ Py5 Art work recreation
 - Reference: [Frank Stella](https://www.caviar20.com/cdn/shop/products/Caviar20_Frank-Stella-HamptonRoads_1971_04_800x.jpg?v=1623678869)
 - [My Code](turtle/assignment.py)
 <img width="1070" alt="turtle" src="assets/turtle.gif" />
+
+### Week 6 Pygame
+**Assignment** Kirby
+- [My Code](pygame/kirby.py)
+- [![Watch the video](pygame/kirby_pygame.mov)]
+
+
