@@ -44,6 +44,6 @@ Py5 Art work recreation
 ### Week 6 Pygame
 **Assignment** Kirby
 - [My Code](pygame/kirby.py)
-- [![Watch the video](pygame/kirby_pygame.mov)]
+- [pygame/kirby_pygame.mov](https://youtu.be/HW52wi_WUso)
 
 
