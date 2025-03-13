@@ -8,7 +8,7 @@ Welcome to my page where all my exporation on python exists. 😌
 - [Week 2](#week-2)
 - [Week 4](#week-4)
 - [Week 5](#week-5)
-
+- [Week 6](#week-6)
 
 ### Week 1
 **Inclass Notes**
@@ -45,5 +45,6 @@ Py5 Art work recreation
 **Assignment** Kirby
 - [My Code](pygame/kirby.py)
 - [pygame/kirby_pygame.mov](https://youtu.be/HW52wi_WUso)
+<img width="1070" alt="pygame" src="pygame/kirby_pygame.gif">
 
 
