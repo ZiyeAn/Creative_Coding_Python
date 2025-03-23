@@ -47,4 +47,8 @@ Py5 Art work recreation
 - [pygame/kirby_pygame.mov](https://youtu.be/HW52wi_WUso)
 <img width="1070" alt="pygame" src="pygame/kirby.gif">
 
+### Week 7 Data Visualization
+**Assignment** Stardew Valley Spring Crops Visualization
+- [My Code](data_visualization/main.py)
+<img width="1070" alt="pygame" src="data_visualization/data_vis.png">
 
