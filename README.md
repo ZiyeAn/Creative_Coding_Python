@@ -45,6 +45,6 @@ Py5 Art work recreation
 **Assignment** Kirby
 - [My Code](pygame/kirby.py)
 - [pygame/kirby_pygame.mov](https://youtu.be/HW52wi_WUso)
-<img width="1070" alt="pygame" src="pygame/kirby_pygame.gif">
+<img width="1070" alt="pygame" src="pygame/kirby.gif">
 
 
