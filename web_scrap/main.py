@@ -46,8 +46,8 @@ length = min(len(names), len(imgs),len(links))
 data = {
     'Name': names[:length],
     'Image_URL': imgs[:length],
+    'Info':info[:length],
     'Links': links[:length],
-    'Info':info[:length]
 }
 
 df = pd.DataFrame(data)
