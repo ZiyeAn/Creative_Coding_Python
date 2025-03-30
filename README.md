@@ -9,6 +9,7 @@ Welcome to my page where all my exporation on python exists. 😌
 - [Week 4](#week-4)
 - [Week 5](#week-5)
 - [Week 6](#week-6)
+- [Week 7](#week-7)
 
 ### Week 1
 **Inclass Notes**
@@ -47,4 +48,8 @@ Py5 Art work recreation
 - [pygame/kirby_pygame.mov](https://youtu.be/HW52wi_WUso)
 <img width="1070" alt="pygame" src="pygame/kirby.gif">
 
+### Week 7 Data Visualization
+**Assignment** Stardew Valley Spring Crops Visualization
+- [My Code](data_visualization/main.py)
+<img width="1070" alt="pygame" src="data_visualization/data_vis.png">
 
