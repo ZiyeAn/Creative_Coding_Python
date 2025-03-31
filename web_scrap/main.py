@@ -30,14 +30,14 @@ for link in soup.select(".thumb a"):
     links.append(link_href)
 
 for name in names:
-    url_name = name.replace(" ", "_")  # Adjust name formatting if needed
+    url_name = name.replace(" ", "_")
     info_url = f"https://stardewvalleywiki.com/{url_name}"
     infoResponse = requests.get(info_url)
     infoSoup = bs4.BeautifulSoup(infoResponse.text, "html.parser")
     
     quotes = infoSoup.select(".quotetext")
     if quotes:
-        info.append(quotes[0].text.strip())  # Use first quote, or loop through all if you prefer
+        info.append(quotes[0].text.strip())  
     else:
         info.append("No quote found")
 
