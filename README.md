@@ -66,6 +66,6 @@ This project scrapes character data from the [Stardew Valley Wiki - Villagers Pa
 3. Saves all collected data into a CSV file.
 <img src="web_scrap/images/Screenshot 2025-03-30 at 4.52.18 PM.png">
 
-[Click to view Detailed Description](web-scrap/README.md)
+[Click to view Detailed Description](https://github.com/ZiyeAn/Creative_Coding_Python/blob/main/web_scrap/README.md)
 
 
