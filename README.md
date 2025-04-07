@@ -68,4 +68,9 @@ This project scrapes character data from the [Stardew Valley Wiki - Villagers Pa
 
 [Click to view Detailed Description](https://github.com/ZiyeAn/Creative_Coding_Python/blob/main/web_scrap/README.md)
 
+### Week 9 LLM Model
+
+I used the [flan-t5-base](https://huggingface.co/google/flan-t5-base). It works but didn't really work well.
+[code](LLM/main.py)
+<img src="LLM/example.png">
 
