@@ -68,4 +68,9 @@ This project scrapes character data from the [Stardew Valley Wiki - Villagers Pa
 
 [Click to view Detailed Description](https://github.com/ZiyeAn/Creative_Coding_Python/blob/main/web_scrap/README.md)
 
+### Week 9 LLM Model
+
+I used the [flan-t5-base](https://huggingface.co/google/flan-t5-base). It works but didn't really work well. I first try to let it explain the math problems. However it could hardly give the right answer and I tried to find out why. Chatgpt said since it is a small model and it can't really handle the math problems well. So I switched my prompt to writing poems, i tried to make it write sonnet based on the user input yet it only generated regular poem. Even tough I made my prompt more clear it still generated lame poems. 
+[code](LLM/main.py)
+<img src="LLM/example.png">
 
