@@ -74,3 +74,9 @@ I used the [flan-t5-base](https://huggingface.co/google/flan-t5-base). It works 
 [code](LLM/main.py)
 <img src="LLM/example.png">
 
+### Week 10 Bad GUI
+
+I made a sldier that can't be controled bydragging mouse by instead cna only be modifies with buttons.
+[code](GUI/main.py)
+<img src="assets/badGUI.gif">
+
