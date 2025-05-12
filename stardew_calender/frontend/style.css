@@ -1,0 +1,114 @@
+body {
+    font-family: "Jersey 10", sans-serif;
+    /* background-image: url("assets/stardew-valley.png"); */
+    background-size: contain;
+    background-color: #c0c0c0;
+    color: #000;
+    margin: 0;
+    padding: 20px;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+  }
+  .app-icon {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    cursor: move;
+    user-select: none;
+  }
+  
+  .desktop-window {
+    width: 800px;
+    height: 600px;
+    background-color: #fdfdfd;
+    border: 5px double black;
+    box-shadow: 5px 5px 0 #000;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+  }
+  
+  .window-header {
+    background: #000;
+    color: white;
+    padding: 5px 10px;
+    cursor: move;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+  }
+  
+  .window-header .buttons {
+    display: flex;
+    gap: 4px;
+  }
+  
+  .window-header .buttons span {
+    width: 12px;
+    height: 12px;
+    background: white;
+    border: 1px solid black;
+    display: inline-block;
+  }
+  
+  .window-content {
+    display: flex;
+    flex: 1;
+  }
+  
+  .left-panel, .right-panel {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+    border-right: 2px solid black;
+  }
+  
+  .right-panel {
+    border-right: none;
+    border-left: 2px solid black;
+    background-color: #eee;
+    font-size: medium;
+  }
+  
+  h1, h2 {
+    font-weight: bold;
+    text-decoration: underline;
+    border-bottom: 2px solid black;
+    padding-bottom: 4px;
+    margin-bottom: 12px;
+  }
+  
+  label, input, select, button {
+    display: block;
+    font-family: inherit;
+    font-size: 16px;
+    margin-bottom: 10px;
+    background: none;
+    border: 1px solid black;
+    padding: 4px;
+  }
+  
+  button {
+    cursor: pointer;
+    border: 2px solid black;
+    background-color: white;
+  }
+  
+  #output {
+    white-space: pre-wrap;
+    font-family: inherit;
+    border: 1px dashed black;
+    padding: 10px;
+    background-color: white;
+    height: calc(100% - 80px);
+    overflow-y: auto;
+  }
+  
+  input:focus, select:focus, button:focus {
+    outline: 1px dashed black;
+  }

@@ -1,0 +1,419 @@
+{
+  "spring": [
+    {
+      "date": "04",
+      "name": "Kent",
+      "loved_gifts": [
+        "Fiddlehead Risotto",
+        "Roasted Hazelnuts"
+      ]
+    },
+    {
+      "date": "07",
+      "name": "Lewis",
+      "loved_gifts": [
+        "Autumn's Bounty",
+        "Glazed Yams",
+        "Green Tea",
+        "Hot Pepper",
+        "Vegetable Medley"
+      ]
+    },
+    {
+      "date": "10",
+      "name": "Vincent",
+      "loved_gifts": [
+        "Cranberry Candy",
+        "Frog Egg",
+        "Ginger Ale",
+        "Grape",
+        "Pink Cake",
+        "Snail"
+      ]
+    },
+    {
+      "date": "14",
+      "name": "Haley",
+      "loved_gifts": [
+        "Coconut",
+        "Fruit Salad",
+        "Pink Cake",
+        "Sunflower"
+      ]
+    },
+    {
+      "date": "18",
+      "name": "Pam",
+      "loved_gifts": [
+        "Beer",
+        "Cactus Fruit",
+        "Glazed Yams",
+        "Mead",
+        "Pale Ale",
+        "Parsnip",
+        "Parsnip Soup",
+        "Piña Colada"
+      ]
+    },
+    {
+      "date": "20",
+      "name": "Shane",
+      "loved_gifts": [
+        "Beer",
+        "Hot Pepper",
+        "Pepper Poppers",
+        "Pizza"
+      ]
+    },
+    {
+      "date": "26",
+      "name": "Pierre",
+      "loved_gifts": [
+        "Fried Calamari",
+        "Price Catalogue"
+      ]
+    },
+    {
+      "date": "27",
+      "name": "Emily",
+      "loved_gifts": [
+        "Amethyst",
+        "Aquamarine",
+        "Cloth",
+        "Emerald",
+        "Jade",
+        "Parrot Egg",
+        "Ruby",
+        "Survival Burger",
+        "Topaz",
+        "Wool"
+      ]
+    }
+  ],
+  "summer": [
+    {
+      "date": "04",
+      "name": "Jas",
+      "loved_gifts": [
+        "Ancient Doll",
+        "Fairy Box",
+        "Fairy Rose",
+        "Pink Cake",
+        "Plum Pudding",
+        "Strange Doll (green)",
+        "Strange Doll (yellow)"
+      ]
+    },
+    {
+      "date": "08",
+      "name": "Gus",
+      "loved_gifts": [
+        "Diamond",
+        "Escargot",
+        "Fish Taco",
+        "Orange",
+        "Tropical Curry"
+      ]
+    },
+    {
+      "date": "10",
+      "name": "Maru",
+      "loved_gifts": [
+        "Battery Pack",
+        "Cauliflower",
+        "Cheese Cauliflower",
+        "Diamond",
+        "Dwarf Gadget",
+        "Gold Bar",
+        "Iridium Bar",
+        "Miner's Treat",
+        "Pepper Poppers",
+        "Radioactive Bar",
+        "Rhubarb Pie",
+        "Strawberry"
+      ]
+    },
+    {
+      "date": "13",
+      "name": "Alex",
+      "loved_gifts": [
+        "Complete Breakfast",
+        "Jack Be Nimble, Jack Be Thick",
+        "Salmon Dinner"
+      ]
+    },
+    {
+      "date": "17",
+      "name": "Sam",
+      "loved_gifts": [
+        "Cactus Fruit",
+        "Maple Bar",
+        "Pizza",
+        "Tigerseye"
+      ]
+    },
+    {
+      "date": "19",
+      "name": "Demetrius",
+      "loved_gifts": [
+        "Bean Hotpot",
+        "Ice Cream",
+        "Rice Pudding",
+        "Strawberry"
+      ]
+    },
+    {
+      "date": "22",
+      "name": "Dwarf",
+      "loved_gifts": [
+        "Amethyst",
+        "Aquamarine",
+        "Emerald",
+        "Jade",
+        "Lava Eel",
+        "Lemon Stone",
+        "Omni Geode",
+        "Ruby",
+        "Topaz"
+      ]
+    },
+    {
+      "date": "24",
+      "name": "Willy",
+      "loved_gifts": [
+        "Catfish",
+        "Diamond",
+        "Gold Bar",
+        "Iridium Bar",
+        "Jewels Of The Sea",
+        "Mead",
+        "Octopus",
+        "Pumpkin",
+        "Sea Cucumber",
+        "Sturgeon",
+        "The Art O' Crabbing"
+      ]
+    },
+    {
+      "date": "26",
+      "name": "Leo",
+      "loved_gifts": [
+        "Duck Feather",
+        "Mango",
+        "Ostrich Egg",
+        "Parrot Egg",
+        "Poi"
+      ]
+    }
+  ],
+  "fall": [
+    {
+      "date": "02",
+      "name": "Penny",
+      "loved_gifts": [
+        "Diamond",
+        "Emerald",
+        "Melon",
+        "Poppy",
+        "Poppyseed Muffin",
+        "Red Plate",
+        "Roots Platter",
+        "Sandfish",
+        "Tom Kha Soup"
+      ]
+    },
+    {
+      "date": "05",
+      "name": "Elliott",
+      "loved_gifts": [
+        "Crab Cakes",
+        "Duck Feather",
+        "Lobster",
+        "Pomegranate",
+        "Squid Ink",
+        "Tom Kha Soup"
+      ]
+    },
+    {
+      "date": "11",
+      "name": "Jodi",
+      "loved_gifts": [
+        "Chocolate Cake",
+        "Crispy Bass",
+        "Diamond",
+        "Eggplant Parmesan",
+        "Fried Eel",
+        "Pancakes",
+        "Rhubarb Pie",
+        "Vegetable Medley"
+      ]
+    },
+    {
+      "date": "13",
+      "name": "Abigail",
+      "loved_gifts": [
+        "Amethyst",
+        "Banana Pudding",
+        "Blackberry Cobbler",
+        "Chocolate Cake",
+        "Monster Compendium",
+        "Pufferfish",
+        "Pumpkin",
+        "Spicy Eel"
+      ]
+    },
+    {
+      "date": "15",
+      "name": "Sandy",
+      "loved_gifts": [
+        "Crocus",
+        "Daffodil",
+        "Mango Sticky Rice",
+        "Sweet Pea"
+      ]
+    },
+    {
+      "date": "18",
+      "name": "Marnie",
+      "loved_gifts": [
+        "Diamond",
+        "Farmer's Lunch",
+        "Pink Cake",
+        "Pumpkin Pie"
+      ]
+    },
+    {
+      "date": "21",
+      "name": "Robin",
+      "loved_gifts": [
+        "Goat Cheese",
+        "Peach",
+        "Spaghetti",
+        "Woody's Secret"
+      ]
+    },
+    {
+      "date": "24",
+      "name": "George",
+      "loved_gifts": [
+        "Fried Mushroom",
+        "Leek"
+      ]
+    }
+  ],
+  "winter": [
+    {
+      "date": "01",
+      "name": "Krobus",
+      "loved_gifts": [
+        "Diamond",
+        "Iridium Bar",
+        "Monster Compendium",
+        "Monster Musk",
+        "Pumpkin",
+        "Void Egg",
+        "Void Mayonnaise",
+        "Wild Horseradish"
+      ]
+    },
+    {
+      "date": "03",
+      "name": "Linus",
+      "loved_gifts": [
+        "Blueberry Tart",
+        "Cactus Fruit",
+        "Coconut",
+        "Dish O' The Sea",
+        "The Alleyway Buffet",
+        "Yam"
+      ]
+    },
+    {
+      "date": "07",
+      "name": "Caroline",
+      "loved_gifts": [
+        "Fish Taco",
+        "Green Tea",
+        "Summer Spangle",
+        "Tropical Curry"
+      ]
+    },
+    {
+      "date": "10",
+      "name": "Sebastian",
+      "loved_gifts": [
+        "Frog Egg",
+        "Frozen Tear",
+        "Obsidian",
+        "Pumpkin Soup",
+        "Sashimi",
+        "Void Egg"
+      ]
+    },
+    {
+      "date": "14",
+      "name": "Harvey",
+      "loved_gifts": [
+        "Coffee",
+        "Pickles",
+        "Super Meal",
+        "Truffle Oil",
+        "Wine"
+      ]
+    },
+    {
+      "date": "17",
+      "name": "Wizard",
+      "loved_gifts": [
+        "Book of Mysteries",
+        "Purple Mushroom",
+        "Solar Essence",
+        "Super Cucumber",
+        "Void Essence"
+      ]
+    },
+    {
+      "date": "20",
+      "name": "Evelyn",
+      "loved_gifts": [
+        "Beet",
+        "Chocolate Cake",
+        "Diamond",
+        "Fairy Rose",
+        "Raisins",
+        "Stuffing",
+        "Tulip"
+      ]
+    },
+    {
+      "date": "23",
+      "name": "Leah",
+      "loved_gifts": [
+        "Goat Cheese",
+        "Poppyseed Muffin",
+        "Salad",
+        "Stir Fry",
+        "Truffle",
+        "Vegetable Medley",
+        "Wine"
+      ]
+    },
+    {
+      "date": "26",
+      "name": "Clint",
+      "loved_gifts": [
+        "Amethyst",
+        "Aquamarine",
+        "Artichoke Dip",
+        "Emerald",
+        "Fiddlehead Risotto",
+        "Gold Bar",
+        "Iridium Bar",
+        "Jade",
+        "Omni Geode",
+        "Ruby",
+        "Topaz"
+      ]
+    }
+  ]
+}

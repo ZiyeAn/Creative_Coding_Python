@@ -1,0 +1,258 @@
+{
+  "spring": [
+    {
+      "name": "Blue Jazz",
+      "grow_days": 7,
+      "price": null
+    },
+    {
+      "name": "Carrot",
+      "grow_days": 3,
+      "price": null
+    },
+    {
+      "name": "Cauliflower",
+      "grow_days": 12,
+      "price": null
+    },
+    {
+      "name": "Coffee Bean",
+      "grow_days": 10,
+      "price": 15
+    },
+    {
+      "name": "Garlic",
+      "grow_days": 4,
+      "price": null
+    },
+    {
+      "name": "Green Bean",
+      "grow_days": 10,
+      "price": null
+    },
+    {
+      "name": "Kale",
+      "grow_days": 6,
+      "price": null
+    },
+    {
+      "name": "Parsnip",
+      "grow_days": 4,
+      "price": null
+    },
+    {
+      "name": "Potato",
+      "grow_days": 6,
+      "price": null
+    },
+    {
+      "name": "Rhubarb",
+      "grow_days": 13,
+      "price": null
+    },
+    {
+      "name": "Strawberry",
+      "grow_days": 8,
+      "price": null
+    },
+    {
+      "name": "Tulip",
+      "grow_days": 6,
+      "price": null
+    },
+    {
+      "name": "Unmilled Rice",
+      "grow_days": 8,
+      "price": null
+    }
+  ],
+  "summer": [
+    {
+      "name": "Blueberry",
+      "grow_days": 13,
+      "price": null
+    },
+    {
+      "name": "Coffee Bean",
+      "grow_days": 10,
+      "price": 15
+    },
+    {
+      "name": "Corn",
+      "grow_days": 14,
+      "price": null
+    },
+    {
+      "name": "Hops",
+      "grow_days": 11,
+      "price": null
+    },
+    {
+      "name": "Hot Pepper",
+      "grow_days": 5,
+      "price": null
+    },
+    {
+      "name": "Melon",
+      "grow_days": 12,
+      "price": null
+    },
+    {
+      "name": "Poppy",
+      "grow_days": 7,
+      "price": null
+    },
+    {
+      "name": "Radish",
+      "grow_days": 6,
+      "price": null
+    },
+    {
+      "name": "Red Cabbage",
+      "grow_days": 9,
+      "price": null
+    },
+    {
+      "name": "Starfruit",
+      "grow_days": 13,
+      "price": null
+    },
+    {
+      "name": "Summer Spangle",
+      "grow_days": 8,
+      "price": null
+    },
+    {
+      "name": "Summer Squash",
+      "grow_days": 6,
+      "price": null
+    },
+    {
+      "name": "Sunflower",
+      "grow_days": 8,
+      "price": null
+    },
+    {
+      "name": "Tomato",
+      "grow_days": 11,
+      "price": null
+    },
+    {
+      "name": "Wheat",
+      "grow_days": 4,
+      "price": null
+    }
+  ],
+  "fall": [
+    {
+      "name": "Amaranth",
+      "grow_days": 7,
+      "price": null
+    },
+    {
+      "name": "Artichoke",
+      "grow_days": 8,
+      "price": null
+    },
+    {
+      "name": "Beet",
+      "grow_days": 6,
+      "price": null
+    },
+    {
+      "name": "Bok Choy",
+      "grow_days": 4,
+      "price": null
+    },
+    {
+      "name": "Broccoli",
+      "grow_days": 8,
+      "price": null
+    },
+    {
+      "name": "Corn",
+      "grow_days": 14,
+      "price": null
+    },
+    {
+      "name": "Cranberries",
+      "grow_days": 7,
+      "price": null
+    },
+    {
+      "name": "Eggplant",
+      "grow_days": 5,
+      "price": null
+    },
+    {
+      "name": "Fairy Rose",
+      "grow_days": 12,
+      "price": null
+    },
+    {
+      "name": "Grape",
+      "grow_days": 7,
+      "price": null
+    },
+    {
+      "name": "Pumpkin",
+      "grow_days": 13,
+      "price": null
+    },
+    {
+      "name": "Sunflower",
+      "grow_days": 8,
+      "price": null
+    },
+    {
+      "name": "Wheat",
+      "grow_days": 4,
+      "price": null
+    },
+    {
+      "name": "Yam",
+      "grow_days": 10,
+      "price": null
+    },
+    {
+      "name": "Powdermelon",
+      "grow_days": 7,
+      "price": null
+    },
+    {
+      "name": "Ancient Fruit",
+      "grow_days": 28,
+      "price": null
+    },
+    {
+      "name": "Cactus Fruit",
+      "grow_days": 12,
+      "price": null
+    },
+    {
+      "name": "Pineapple",
+      "grow_days": 14,
+      "price": null
+    },
+    {
+      "name": "Qi Fruit",
+      "grow_days": 4,
+      "price": null
+    },
+    {
+      "name": "Sweet Gem Berry",
+      "grow_days": 24,
+      "price": 3000
+    },
+    {
+      "name": "Taro Root",
+      "grow_days": 10,
+      "price": null
+    },
+    {
+      "name": "Tea Leaves",
+      "grow_days": 20,
+      "price": null
+    }
+  ]
+}

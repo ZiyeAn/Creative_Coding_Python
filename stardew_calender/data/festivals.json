@@ -1,0 +1,58 @@
+{
+  "spring": [
+    {
+      "date": "13",
+      "name": "Egg Festival"
+    },
+    {
+      "date": "15–17",
+      "name": "Desert Festival"
+    },
+    {
+      "date": "24",
+      "name": "Flower Dance"
+    }
+  ],
+  "summer": [
+    {
+      "date": "11",
+      "name": "Luau"
+    },
+    {
+      "date": "20–21",
+      "name": "Trout Derby"
+    },
+    {
+      "date": "28",
+      "name": "Dance of the Moonlight Jellies"
+    }
+  ],
+  "fall": [
+    {
+      "date": "16",
+      "name": "Stardew Valley Fair"
+    },
+    {
+      "date": "27",
+      "name": "Spirit's Eve"
+    }
+  ],
+  "winter": [
+    {
+      "date": "08",
+      "name": "Festival of Ice"
+    },
+    {
+      "date": "12–13",
+      "name": "SquidFest"
+    },
+    {
+      "date": "15–17",
+      "name": "Night Market"
+    },
+    {
+      "date": "25",
+      "name": "Feast of the Winter Star"
+    }
+  ]
+}
