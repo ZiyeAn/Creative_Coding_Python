@@ -16,14 +16,6 @@ A retro-style web app inspired by HyperCard and early Mac OS, designed to help S
 - Back End: scrape_and_update.py
 - Data: Json (by web scraping)
   
-
-## Setup Instructions
-	1.	Clone or download this repository
-	2.	Place your JSON data into the data/ folder
-	3.	Add any retro icons to the assets/ folder (e.g. icon1.png)
-	4.	Add background music (e.g. bgm.mp3)
-	5.	Open index.html with Live Server or in your browser
-
 ## Data Sources
 	•	All data scraped from https://stardewvalleywiki.com
 
